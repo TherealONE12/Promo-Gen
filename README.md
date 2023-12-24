@@ -32,7 +32,12 @@ python gen.py
 
 ## Donate 
 
-BTC:
+BTC:  3HDyuaBERNsr5if3Fp56Cd3CKXLCiLT5Xj
+ETH:  0xF5F87E3A641f414B019930ce4fFe5D81d83d9917
+
+## Support
+
+Discord username: mclover1604 For Giving Support
 
 # Note
 This script is intended for educational purposes only. Use it responsibly and respect Discord's & OperaGx's terms of service.
